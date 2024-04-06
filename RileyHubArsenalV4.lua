@@ -41,7 +41,7 @@ print("hi")
 end)
 
 w:NewButton("Discord | Click To Copy", "?", function()
-setclipboard("https://discord.gg/D6q73nefFm")
+setclipboard("https://discord.gg/GZhUvV5gJy")
 end)
 
 y:NewTextBox("Walkspeed","Changes the player's walkspeed",function(I)
